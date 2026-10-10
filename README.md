@@ -11,7 +11,7 @@ Designed for freelancers, contractors, and small businesses to quickly create, m
 ## PDF 
 ![pdf](./screenshots/Screenshot%202026-07-18%20150539.png)
 
-[Invoice maker backend](https://github.com/titchSiobhan/tracker-backend)
+[Invoice maker backend](https://github.com/titchSiobhan/invoice-maker-backend)
 ## Features
 
 ### Invoice Management
